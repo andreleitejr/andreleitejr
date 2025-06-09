@@ -1,6 +1,6 @@
 # Hello World, I’m André
 
-🧑🏽‍💻 I’m a Product Designer/Software Developer passionate about creating impactful products, from design to code and delivery.
+🧑🏽‍💻 I’m a Product Manager/Software Developer passionate about creating impactful products, from design to code and delivery.
 
 📫 Reach me: andre.lljr@live.com
 
